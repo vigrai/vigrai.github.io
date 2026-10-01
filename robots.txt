@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vigrai.com/sitemap.xml
